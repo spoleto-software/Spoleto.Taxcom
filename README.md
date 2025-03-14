@@ -1,6 +1,6 @@
 # Spoleto.Taxcom
 
-[![](https://img.shields.io/github/license/spoleto-software/Spoleto.Taxcom)](https://github.com/spoleto-software/Spoleto.Taxcom/blob/main/LICENSE)
+[![](https://img.shields.io/github/license/spoleto-software/spoleto.taxcom)](https://github.com/spoleto-software/Spoleto.Taxcom/blob/main/LICENSE)
 [![](https://img.shields.io/nuget/v/Spoleto.Taxcom)](https://www.nuget.org/packages/Spoleto.Taxcom/)
 ![Build](https://github.com/spoleto-software/Spoleto.Taxcom/actions/workflows/ci.yml/badge.svg)
 
