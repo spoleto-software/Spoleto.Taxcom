@@ -1,7 +1,7 @@
 ﻿namespace Spoleto.Taxcom
 {
     /// <summary>
-    /// Признаки расчета
+    /// Признаки расчета.
     /// </summary>
     public enum AccountingType
     {

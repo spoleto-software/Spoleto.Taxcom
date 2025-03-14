@@ -1,7 +1,7 @@
 ﻿namespace Spoleto.Taxcom
 {
     /// <summary>
-    /// Статусы смены
+    /// Статусы смены.
     /// </summary>
     public enum ShiftState
     {

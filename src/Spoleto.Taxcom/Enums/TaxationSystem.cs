@@ -1,7 +1,7 @@
 ﻿namespace Spoleto.Taxcom
 {
     /// <summary>
-    /// Система налогообложения
+    /// Система налогообложения.
     /// </summary>
     public enum TaxationSystem
     {
